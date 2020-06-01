@@ -1,7 +1,5 @@
 import React from 'react';
 import './App.css';
-import Item from './Components/ItemComponent';
-
 import Main from './Components/MainComponent'
 
 
